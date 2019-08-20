@@ -69,11 +69,13 @@
   .article1{ 
     
     float: left;
-    width:50%;
+    width:48%;
+    padding: 10px 10px 10px 10px;
   }
   .article2{
     float: left;
-    width:50%;
+    width:48%;
+    padding: 10px 10px 10px 10px;
   }
   article:after {
     content: "";
